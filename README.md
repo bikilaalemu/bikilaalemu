@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bikila Alemu</h1>
-<h3 align="center">A passionate web developer from Ethiopia</h3>
+<h3 align="center">A web developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikilaalemu&label=Profile%20views&color=0e75b6&style=flat" alt="bikilaalemu" /> </p>
 
@@ -11,15 +11,11 @@
 
 - 🤝 I’m looking for help with **Laravel framework**
 
-- 👨‍💻 All of my projects are available at [-](-)
-
-- 📝 I regularly write articles on [-](-)
+- 👨‍💻 All of my projects are available here [-](-)
 
 - 💬 Ask me about **pure php**
 
 - 📫 How to reach me **biko.alem@gmail.com**
-
-- 📄 Know about my experiences [-](-)
 
 - ⚡ Fun fact **I think I am funny**
 
