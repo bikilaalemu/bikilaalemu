@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available here [-](-)
 
-- 💬 Ask me about **pure php** **WordPress CMS**
+- 💬 Ask me about **pure php** , **WordPress CMS**
 
 - 📫 How to reach me **biko.alem@gmail.com**
 
