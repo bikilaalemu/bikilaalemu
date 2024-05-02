@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikilaalemu&label=Profile%20views&color=0e75b6&style=flat" alt="bikilaalemu" /> </p>
 
-- 🔭 I’m currently working on **Plan Management System**
+- 🔭 I’m currently working on ** ----- **
 
 - 🌱 I’m currently learning **Laravel, React (JS)**
 
@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available here [-](-)
 
-- 💬 Ask me about **pure php** , **WordPress CMS**
+- 💬 Ask me about **---p** 
 
 - 📫 How to reach me **biko.alem@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny - but not those days**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
