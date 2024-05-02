@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on ** ----- **
 
-- 🌱 I’m currently learning **Laravel, React (JS)**
+- 🌱 I’m currently learning **----**
 
-- 👯 I’m looking to collaborate on **Any web-based project**
+- 👯 I’m looking to collaborate on **----**
 
-- 🤝 I’m looking for help with **Laravel framework**
+- 🤝 I’m looking for help with **-----**
 
 - 👨‍💻 All of my projects are available here [-](-)
 
-- 💬 Ask me about **---p** 
+- 💬 Ask me about **---** 
 
 - 📫 How to reach me **biko.alem@gmail.com**
 
